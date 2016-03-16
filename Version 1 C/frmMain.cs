@@ -12,6 +12,7 @@ namespace Version_1_C
     {
         /// <summary>
         /// Matthias Otto, NMIT, 2010-2016
+        ///  worked on by Franklin
         /// </summary>
         public frmMain()
         {
